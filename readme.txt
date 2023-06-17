@@ -1,3 +1,44 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------
+------- ENG ---------------------------------------------------------------------------------------------------------------------------------------
+
+This program is a simple engine for creating text quests.
+
+There are 6 main files here:
+
+    main.py
+    the main file to run.
+
+    clss.py
+    a file containing information about the classes of the program.
+    There are only 2 classes in the program - Answers and Locations.
+    There are 3 parameters in the Answers class, these are the answer id, the answer text and the location id, to which you will be sent when you click on the answer.
+    There are 17 parameters in the Locations class, these are location id, location name, 12 descriptions and 3 response ids.
+
+    cfg.py
+    A file that stores settings that you can change for yourself.
+
+    answers.py
+    A file with your code that stores information about responses.
+
+    locations.py
+    File with your code storing location information.
+
+    scene.py
+    File that handles answers.py and locatons.py files
+
+The program workflow is as follows:
+    Run "main.py"
+    1: "answers.py" and "locations.py" process the files "cfg.py" and "clss.py" and are executed
+    2: The file "scene.py" processes "answers.py" first, then "locations.py".
+    3: The file "main.py" executes "scene.py" and then executes itself.
+    4: The program starts and runs.
+
+Then I will add here other information about working with the engine.
+I also plan to add the ability to create scripts that can work in the game.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+------- RUS ---------------------------------------------------------------------------------------------------------------------------------------
+
 Данная программа - простой движок для создания текстовых квестов.
 
 Здесь 6 основных файлов:
