@@ -33,6 +33,8 @@ The program workflow is as follows:
     3: The file "main.py" executes "scene.py" and then executes itself.
     4: The program starts and runs.
 
+Program written with PyGame Zero.
+
 Then I will add here other information about working with the engine.
 I also plan to add the ability to create scripts that can work in the game.
 
@@ -70,6 +72,8 @@ I also plan to add the ability to create scripts that can work in the game.
     2: Файл "scene.py" обрабатывает сначала "answers.py", потом "locations.py".
     3: Файл "main.py" исполняет "scene.py" и после исполняется и сам.
     4: Программа запускается и работает.
+
+Программа написана с помощью PyGame Zero.
 
 Потом добавлю сюда прочую информацию о работе с движком.
 Так же планирую добавить возможность создавать скрипты, которые смогут работать в игре.
