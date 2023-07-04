@@ -67,8 +67,8 @@ answers.append(Answers("a.corridor.exit.run.none", "", "l.corridor.exit.run"))
 
 # l.forest
 answers.append(Answers("a.forest", "Конец?", "break"))
-answers.append(Answers("a.forest.none1", "", "l.forest"))
-answers.append(Answers("a.forest.none2", "", "l.forest"))
+answers.append(Answers("a.forest.none", "", "l.forest"))
+answers.append(Answers("a.forest.none", "", "l.forest"))
 
 '''
 # 
