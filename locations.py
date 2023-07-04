@@ -329,8 +329,8 @@ locations.append(Locations( "l.forest",
                             "",
                             "",
                             answer.get ("a.forest"),
-                            answer.get ("a.forest.none1"),
-                            answer.get ("a.forest.none2")
+                            answer.get ("a.forest.none"),
+                            answer.get ("a.forest.none")
                              ))
 
 '''
