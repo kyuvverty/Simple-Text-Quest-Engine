@@ -24,6 +24,25 @@ locations.append(Locations( "id этой локации",
                             answer.get ("id второй кнопки"),
                             answer.get ("id третьей кнопки")
                              ))
+
+locations.append(Locations( "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            answer.get (""),
+                            answer.get (""),
+                            answer.get ("")
+                             ))
 '''
 
 
@@ -332,24 +351,3 @@ locations.append(Locations( "l.forest",
                             answer.get ("a.forest.none"),
                             answer.get ("a.forest.none")
                              ))
-
-'''
-locations.append(Locations( "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            answer.get (""),
-                            answer.get (""),
-                            answer.get ("")
-                             ))
-'''
