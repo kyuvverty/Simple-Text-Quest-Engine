@@ -3,7 +3,11 @@ from cfg import *
 from clss import *
 
 
-# answers.append(Answers("id этой кнопки", "текст этой кнопки", "id локации на которую перенесет игрока"))
+''' 
+answers.append(Answers("id этой кнопки", "текст этой кнопки", "id локации на которую перенесет игрока"))
+
+answers.append(Answers("", "", ""))
+'''
 
 
 # Для конца
@@ -69,10 +73,3 @@ answers.append(Answers("a.corridor.exit.run.none", "", "l.corridor.exit.run"))
 answers.append(Answers("a.forest", "Конец?", "break"))
 answers.append(Answers("a.forest.none", "", "l.forest"))
 answers.append(Answers("a.forest.none", "", "l.forest"))
-
-'''
-# 
-answers.append(Answers("", "", ""))
-answers.append(Answers("", "", ""))
-answers.append(Answers("", "", ""))
-'''
