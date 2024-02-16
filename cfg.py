@@ -56,4 +56,4 @@ button1_color = button_color # Цвет 1 кнопки
 button2_color = button_color # Цвет 2 кнопки
 button3_color = button_color # Цвет 3 кнопки
 
-debug = False # Режим отладки (Показывает id локации и ответов)
+debug = True # Режим отладки (Показывает id локации и ответов)
