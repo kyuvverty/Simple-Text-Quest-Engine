@@ -3,6 +3,8 @@
 
 This program is a simple engine for creating text quests.
 This version is outdated and will not be supported!
+At the moment, an improved version of the engine is being developed in Pygame, from scratch.
+
 
 There are 6 main files here:
 
@@ -36,14 +38,12 @@ The program workflow is as follows:
 
 Program written with PyGame Zero.
 
-Then I will add here other information about working with the engine.
-I also plan to add the ability to create scripts that can work in the game.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ------- RUS ---------------------------------------------------------------------------------------------------------------------------------------
 
 Данная программа - простой движок для создания текстовых квестов.
 Эта версия устарела и не будет поддерживаться!
+На данный момент разрабатывается усовершенствованная версия движка на Pygame, с нуля.
 
 Здесь 6 основных файлов:
 
@@ -76,6 +76,3 @@ I also plan to add the ability to create scripts that can work in the game.
     4: Программа запускается и работает.
 
 Программа написана с помощью PyGame Zero.
-
-Потом добавлю сюда прочую информацию о работе с движком.
-Так же планирую добавить возможность создавать скрипты, которые смогут работать в игре.
